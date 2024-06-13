@@ -1,0 +1,23 @@
+{
+  "name": "rim-quiz-pp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "my-quiz-app",
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.8",
+    "readline-sync": "^1.4.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "rim-quiz-pp": "^1.0.0"
+  }
+}
